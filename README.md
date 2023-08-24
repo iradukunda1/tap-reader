@@ -6,7 +6,7 @@ For reading and parsing tap device ethernet frame data
 
 Clone the repo and make sure that you have c compiler installed
 
-`gcc *.c -o tap_reader`
+`gcc main.c -o tap_reader`
 
 ```
 sudo ./tap_reader <tap-device-name>

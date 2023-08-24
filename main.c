@@ -12,6 +12,8 @@
 
 #include <sys/ioctl.h>
 
+#include "util.c"
+
 
 
 int main(int argc, char **argv)
